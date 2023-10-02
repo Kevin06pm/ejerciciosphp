@@ -14,8 +14,11 @@ Ctrl+P
 Ctrl+F
 Ctrl+shift+F
 Ctrl+mayus+I
+Ctrl+shift+7. Poner/Quitar comentarios
 
 ## Ayuda Html: Emmet
-html5
+html:5
 etiquetas sin <>
 Anidar y multiplicar etiquetas
+
+//PHP.net/Manual
